@@ -1,3 +1,19 @@
 # Lab_03
 Console.WriteLine("Name: Syeda Malaika Fatima");
 Console.WriteLine("Roll Number: 34-ST-063");
+int a = 5;
+int b = 10;
+int sum = a + b;
+Console.WriteLine($"The addition of a and b is {sum}.");
+int a = 5;
+int b = 10;
+int subtraction = a - b;
+Console.WriteLine($"The subtraction of a and b is {subtraction}.");
+int a = 5;
+int b = 10;
+int multiplication = a * b;
+Console.WriteLine($"The multiplication of a and b is {multiplication}.");
+int a = 5;
+int b = 10;
+int division = a / b;
+Console.WriteLine($"The division of a and b is {division}.");
