@@ -13,3 +13,7 @@ int a = 5;
 int b = 10;
 int multiplication = a * b;
 Console.WriteLine($"The multiplication of a and b is {multiplication}.");
+int a = 5;
+int b = 10;
+int division = a / b;
+Console.WriteLine($"The division of a and b is {division}.");
