@@ -1,3 +1,7 @@
 # Lab_03
 Console.WriteLine("Name: Syeda Malaika Fatima");
 Console.WriteLine("Roll Number: 34-ST-063");
+int a = 5;
+int b = 10;
+int sum = a + b;
+Console.WriteLine($"The addition of a and b is {sum}.");
